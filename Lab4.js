@@ -19,7 +19,8 @@
 
     // Parte 2
     var divs = document.querySelectorAll('div');
-    console.log('Los mensajes cifrados son: ', divs.length);
+    var n = divs.length
+    console.log('Los mensajes cifrados son: ', n);
 
 
     // Parte 3
